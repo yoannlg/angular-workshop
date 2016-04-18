@@ -1,0 +1,6 @@
+
+<<<<<<< HEAD
+ var countersApp = angular.module('countersApp',[]);
+=======
+var countersApp = angular.module('countersApp',[]);
+>>>>>>> e3c10b4646a0e95a205cce8f9ce117713c4b6292
